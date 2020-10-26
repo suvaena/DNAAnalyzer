@@ -1,0 +1,40 @@
+Region Name: cure for cancer protein
+Nucleotides: ATGCCACTATGGTAG
+
+Total Mass%: [27.3, 16.8, 30.6, 25.0] of 1978.8Codons list: [ATG, CCA, CTA, TGG, TAG]
+Region Name: captain picard hair growth protein
+Nucleotides: ATGCCAACATGGATGCCCGATATGGATTGA
+
+Total Mass%: [30.7, 16.8, 30.5, 28.0] of 3967.5Codons list: [ATG, CCA, ACA, TGG, ATG, CCC, GAT, ATG, GAT, TGA]
+Region Name: bogus protein
+Nucleotides: CCATT-AATGATCA-CAGTT
+
+Total Mass%: [32.3, 17.7, 12.1, 30.0] of 2508.1Codons list: [CCA, TTA, AAT, GAT, CAC, CAG]
+Region Name: michael jordan mad hops protein
+Nucleotides: ATGAG-ATC-CGTGATGTGGG-AT-CCTA-CT-CATTAA
+
+Total Mass%: [24.6, 13.5, 24.5, 23.0] of 4942.9Codons list: [ATG, AGA, ATC, CCG, TGA, TGT, GGG, AAT, CCC, TAC, CTC, CAT, TAA]
+Region Name: paris hilton phony protein
+Nucleotides: ATGC-CAACATGGATGCCCTAAG-ATATGGATTAGTGA
+
+Total Mass%: [32.6, 13.4, 27.3, 30.0] of 4974.3Codons list: [ATG, CCC, AAC, ATG, GAT, GCC, CTA, AGA, ATA, TGG, ATT, AGT]
+Region Name: jimi hendrix guitar talent protein
+Nucleotides: ATGATAATTAGTTTTAATATCAGA-CTGTAA
+
+Total Mass%: [40.0, 5.5, 14.9, 37.0] of 4049.5Codons list: [ATG, ATA, ATT, AGT, TTT, AAT, ATC, AGA, CCT, GTA]
+Region Name: admiral grace murray hopper protein
+Nucleotides: ATGC-AATT--GC-----TCGA--------TTAG
+
+Total Mass%: [17.0, 8.4, 15.2, 16.0] of 3964.1Codons list: [ATG, CAA, ATT, -GG, C--, --T, TCG, A--, ---, --T, TTA]
+Region Name: tyler durden's brain protein
+Nucleotides: ATGATACCTATGAGTAATGTGGACCATATCCAAACTATAGGCATTGTCGGACCAACGATCGATTGGTTATACTGA
+
+Total Mass%: [32.9, 15.8, 24.6, 31.0] of 9843.8Codons list: [ATG, ATA, CCT, ATG, AGT, AAT, GTG, GAC, CAT, ATC, CAA, ACT, ATA, GGC, ATT, GTC, GGA, CCA, ACG, ATC, GAT, TGG, TTA, TAC, TGA]
+Region Name: mini me growth hormone
+Nucleotides: ATGGGACGCTGA
+
+Total Mass%: [24.8, 13.6, 46.3, 23.0] of 1633.4Codons list: [ATG, GGA, CGC, TGA]
+Region Name: Nyan Cat protein
+Nucleotides: CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT
+
+Total Mass%: [29.3, 24.1, 0.0, 27.0] of 4613.4Codons list: [CAT, CCA, TCC, ATC, CAT, CCA, TCC, ATC, CAT, CCA, TCC, ATC, CAT]
